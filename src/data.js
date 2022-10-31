@@ -1,0 +1,33 @@
+ const data=[
+    {
+        id:1,
+        name:'ahmet',
+        age:34,
+        image:'https://www.alucoildesign.com/assets/pages/media/profile/profile_user.jpg'
+    },
+    {
+        id:2,
+        name:'mehmet',
+        age:33,
+        image:'https://image.shutterstock.com/image-photo/head-shot-portrait-close-smiling-260nw-1714666150.jpg'
+    },
+    {
+        id:3,
+        name:'kamil',
+        age:44,
+        image:'https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg'
+    },
+    {
+        id:4,
+        name:'serkan',
+        age:24,
+        image:'https://image.shutterstock.com/image-photo/picture-smiling-handsome-businessman-office-260nw-265383200.jpg'
+    },
+    {
+        id:5,
+        name:'fatih',
+        age:55,
+        image:'https://thumbs.dreamstime.com/b/businessman-smiling-men-business-handsome-91404651.jpg'
+    },
+]
+export default data;
